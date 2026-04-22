@@ -1,0 +1,9 @@
+package enums;
+
+//OS ENUMS DEFINEM VALORES FIXOS QUE OS ATRIBUTOS
+//PODEM ASSUMIR
+
+public enum StatusGrupo {
+	ATIVO, INATIVO
+
+}
